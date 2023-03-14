@@ -1,0 +1,40 @@
+C:\Users\Mehmet\source\repos\BGProjeOdevi\BGProjeOdevi\bin\Debug\BGProjeOdevi.exe.config
+C:\Users\Mehmet\source\repos\BGProjeOdevi\BGProjeOdevi\bin\Debug\BGProjeOdevi.exe
+C:\Users\Mehmet\source\repos\BGProjeOdevi\BGProjeOdevi\bin\Debug\BGProjeOdevi.pdb
+C:\Users\Mehmet\source\repos\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.Form1.resources
+C:\Users\Mehmet\source\repos\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.Properties.Resources.resources
+C:\Users\Mehmet\source\repos\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.csproj.GenerateResource.cache
+C:\Users\Mehmet\source\repos\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.exe
+C:\Users\Mehmet\source\repos\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.pdb
+C:\Users\Mehmet\Desktop\Her Şey\Eski Dönem\Bilgisayar Grafikleri\Proje\BGProjeOdevi\BGProjeOdevi\bin\Debug\BGProjeOdevi.exe.config
+C:\Users\Mehmet\Desktop\Her Şey\Eski Dönem\Bilgisayar Grafikleri\Proje\BGProjeOdevi\BGProjeOdevi\bin\Debug\BGProjeOdevi.exe
+C:\Users\Mehmet\Desktop\Her Şey\Eski Dönem\Bilgisayar Grafikleri\Proje\BGProjeOdevi\BGProjeOdevi\bin\Debug\BGProjeOdevi.pdb
+C:\Users\Mehmet\Desktop\Her Şey\Eski Dönem\Bilgisayar Grafikleri\Proje\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Her Şey\Eski Dönem\Bilgisayar Grafikleri\Proje\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.Form1.resources
+C:\Users\Mehmet\Desktop\Her Şey\Eski Dönem\Bilgisayar Grafikleri\Proje\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\Her Şey\Eski Dönem\Bilgisayar Grafikleri\Proje\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.csproj.GenerateResource.cache
+C:\Users\Mehmet\Desktop\Her Şey\Eski Dönem\Bilgisayar Grafikleri\Proje\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Her Şey\Eski Dönem\Bilgisayar Grafikleri\Proje\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.exe
+C:\Users\Mehmet\Desktop\Her Şey\Eski Dönem\Bilgisayar Grafikleri\Proje\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.pdb
+C:\Users\eray_\Downloads\BGProjeOdevi\BGProjeOdevi\bin\Debug\BGProjeOdevi.exe.config
+C:\Users\eray_\Downloads\BGProjeOdevi\BGProjeOdevi\bin\Debug\BGProjeOdevi.exe
+C:\Users\eray_\Downloads\BGProjeOdevi\BGProjeOdevi\bin\Debug\BGProjeOdevi.pdb
+C:\Users\eray_\Downloads\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.csproj.AssemblyReference.cache
+C:\Users\eray_\Downloads\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.Form1.resources
+C:\Users\eray_\Downloads\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.Properties.Resources.resources
+C:\Users\eray_\Downloads\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.csproj.GenerateResource.cache
+C:\Users\eray_\Downloads\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\eray_\Downloads\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.exe
+C:\Users\eray_\Downloads\BGProjeOdevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.pdb
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Proje Ödevi\BGProjeOdevi\bin\Debug\BGProjeOdevi.exe.config
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Proje Ödevi\BGProjeOdevi\bin\Debug\BGProjeOdevi.exe
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Proje Ödevi\BGProjeOdevi\bin\Debug\BGProjeOdevi.pdb
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Proje Ödevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.csproj.AssemblyReference.cache
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Proje Ödevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.Form1.resources
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Proje Ödevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.Properties.Resources.resources
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Proje Ödevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.csproj.GenerateResource.cache
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Proje Ödevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Proje Ödevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.exe
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Proje Ödevi\BGProjeOdevi\obj\Debug\BGProjeOdevi.pdb
